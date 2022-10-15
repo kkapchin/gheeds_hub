@@ -45,5 +45,6 @@ p {
 }
   
 .lg, .md {
-background-color: black;
+    background-color: black;
+    border: 0;
 }
