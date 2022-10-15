@@ -39,3 +39,11 @@ p {
 .right {
     float: right;
 }
+
+.lg {
+    height: 10px;
+}
+  
+.lg, .md {
+background-color: black;
+}
