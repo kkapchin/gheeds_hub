@@ -5,4 +5,4 @@ let username = "JackOfAllTrades";
 //^[a-z][a-z]+ => at least two characters long and two letters long usernames must be alphabetic
 // | stands for 'or'
 let userCheck = /^[a-z][a-z]+\d*$|^[a-z]\d\d+$/i; // Change this line
-let result = userCheck.test(username);
+let result = userCheck.test(username);ß
